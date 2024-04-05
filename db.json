@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "44f1"
+    },
+    {
+      "id": "36f6",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "id": "3",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "0": {
+        "title": "Healthy Products",
+        "content": "Facial Products",
+        "id": 4
+      },
+      "id": "89a1"
+    },
+    {
+      "0": {
+        "title": "Healthy Products",
+        "content": "Facial Products",
+        "id": 4
+      },
+      "id": "ef7d"
+    }
+  ]
+}
